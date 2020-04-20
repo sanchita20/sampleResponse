@@ -35,6 +35,27 @@
         "achievement":"Danish software engineer",
         "language":" C#",
         "details":"He was the original author of Turbo Pascal and the chief architect of Delphi. He currently works for Microsoft as the lead architect of C# and core developer on TypeScript."
+      },
+      {
+        "id":6,
+        "name":"Tim Berners-Lee",
+        "achievement":"British computer scientist",
+        "language":" Inventor of the World Wide Web",
+        "details":" He made a proposal for an information management system in March 1989 and he implemented the first successful communication between a Hypertext Transfer Protocol (HTTP) client and server via the Internet. Berners-Lee is the director of the World Wide Web Consortium (W3C), which oversees the Web’s continued development."
+      },
+      {
+        "id":7,
+        "name":"Brian Kernighan",
+        "achievement":"Computer scientist",
+        "language":"Unix",
+        "details":"He is also coauthor of the AWK and AMPL programming languages. Kernighan’s name became widely known through co-authorship of the first book on the C programming language with Dennis Ritchie."
+      },
+      {
+        "id":8,
+        "name":"Ken Thompson",
+        "achievement":"American pioneer of computer science",
+        "language":"Unix operating system",
+        "details":"He also invented the B programming language, the direct predecessor to the C programming language, and was one of the creators and early developers of the Plan 9 operating systems. Since 2006, Thompson works at Google, where he co-invented the Go programming language."
       }
       ]
   }
